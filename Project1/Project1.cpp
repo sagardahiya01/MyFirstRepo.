@@ -5,8 +5,7 @@
 
 int main()
 {
-    printf("Hello World!");
-    printf("Sagar Here!");
+    printf("Dahiya Sagar!");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
